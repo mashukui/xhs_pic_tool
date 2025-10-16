@@ -26,7 +26,7 @@
 附：csv文件中的“序号”列，和图片文件名前缀序号一一对应，2.3章节有详细解释。
 
 ## 1.3 演示视频
-软件操作演示视频：[【爬虫软件】小红书图片采集工具，一键下载无水印图片](https://www.bilibili.com/video/BV1VsuxzvEsM/)
+软件操作演示视频：[【爬虫软件】小红书图片采集工具，一键下载无水印图片](https://mp.weixin.qq.com/s/VGiqBEg5hCQuEzOGTJqxSQ)
 
 ## 1.4 软件说明
 重要说明，请详读：
