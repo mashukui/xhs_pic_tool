@@ -15,12 +15,12 @@
 
 
 保存的csv数据：（截图中展示的就是全部字段了）
-![图2-csv数据](https://files.mdnice.com/user/32110/4df3378a-48d2-4bb3-8b36-fcb2d7b38d0d.png)
+![图2-csv数据](images/xhp_01.png)
 
 > 如果csv截图看不清，可移步这里，更清晰：https://docs.qq.com/sheet/DVEFhZlFKR1NXVEdN?tab=2ophep
 
 自动下载的图片：
-![图3-下载的笔记图片](https://files.mdnice.com/user/32110/2bebc609-2828-4f12-aeb3-73444fef319a.jpg)
+![图3-下载的笔记图片](images/xhp_02.jpg)
 
 附：csv文件中的“序号”列，和图片文件名前缀序号一一对应，2.3章节有详细解释。
 
@@ -79,7 +79,7 @@ csv数据结果，见图2。
 
 ## 3.2 cookie获取
 运行软件之前，需要填写cookie值到txt配置文件中，获取方法如下：
-![cookie获取方法](https://files.mdnice.com/user/32110/4c25d085-0348-407b-bfc3-39376107c7c7.png)
+![cookie获取方法](images/xhp_03.png)
 
 然后把获取到的cookie值存入当前文件夹下的cookie.txt文件，并保存。
 
@@ -133,7 +133,7 @@ def get_logger(self):
                         encoding='utf-8')
 ```
 软件运行过程中生成的日志文件：
-![log文件](https://files.mdnice.com/user/32110/e8033fb9-101b-4181-85d5-739fe2ac8d1d.jpg)
+![log文件](images/xhp_04.jpg)
 
 # 四、付费说明
 ## 4.1 价格说明
